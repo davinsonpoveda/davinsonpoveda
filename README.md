@@ -46,4 +46,4 @@ A continuación se detallan los proyectos personales diseñados para consolidar 
 ## Contacto
 
 * **LinkedIn:** linkedin.com/in/davinson-poveda-velasco22
-* **Email:** davinsonp [at] gmail.com
+* **Email:** davinsonp@gmail.com
